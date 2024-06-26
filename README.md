@@ -1,4 +1,5 @@
 DIO | Desafio De Lógica
+
 No desafio Calculadora de partidas Rankeadas, do curso de formação em lógica de progração proposto, foi utilizado basicamente um pouco de cada parte que vimos até o momento, como variáveis, operadores e laços de repetição.
 
 [Desafio Classificador de lógica] (https://web.dio.me/project/calculadora-de-partidas-rankeadas/learning/7e8c807a-ac55-42d0-be9e-cf453c50efca?back=/track/formacao-logica-de-programacao&tab=undefined&moduleId=undefined).
