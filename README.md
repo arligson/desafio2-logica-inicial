@@ -1,33 +1,22 @@
-/\*\*
+DIO | Desafio De Lógica
+No desafio Calculadora de partidas Rankeadas, do curso de formação em lógica de progração proposto, foi utilizado basicamente um pouco de cada parte que vimos até o momento, como variáveis, operadores e laços de repetição.
 
--
+[Desafio Classificador de lógica] (https://web.dio.me/project/calculadora-de-partidas-rankeadas/learning/7e8c807a-ac55-42d0-be9e-cf453c50efca?back=/track/formacao-logica-de-programacao&tab=undefined&moduleId=undefined).
 
-# 2️⃣ Calculadora de partidas Rankeadas
+📚 O Projeto
+Criar uma função que recebe-se como parâmetro a quantidade de vitórias e derrotas de um jogador,
+depois disso retorner o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)
 
-**O Que deve ser utilizado**
-
-- Variáveis
-- Operadores
-- Laços de repetição
-- Estruturas de decisões
-- Funções
-
-## Objetivo:
-
-Crie uma função que recebe como parâmetro a quantidade de vitórias e derrotas de um jogador,
-depois disso retorne o resultado para uma variável, o saldo de Rankeadas deve ser feito através do calculo (vitórias - derrotas)
-
-Se vitórias for menor do que 10 = Ferro
-Se vitórias for entre 11 e 20 = Bronze
-Se vitórias for entre 21 e 50 = Prata
-Se vitórias for entre 51 e 80 = Ouro
-Se vitórias for entre 81 e 90 = Diamante
-Se vitórias for entre 91 e 100= Lendário
-Se vitórias for maior ou igual a 101 = Imortal
-
-## Saída
-
-Ao final deve se exibir uma mensagem:
+O Output deveria ser:
 "O Herói tem de saldo de **{saldoVitorias}** está no nível de **{nivel}**"
 
-\*/
+💻 Como ficou:
+O héroi tem um saldo de ${saldoDasRankeadas} vitórias e está no nível ${rankingDoPersonagem}
+
+Exemplo de uma saída:
+
+O héroi tem um saldo de 77 vitórias e está no nível Ouro
+
+Variáveis:
+
+saldoDasRankeadas e rankingDoPersonagem
